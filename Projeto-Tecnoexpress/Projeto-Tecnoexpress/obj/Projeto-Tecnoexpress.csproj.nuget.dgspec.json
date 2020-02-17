@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj": {}
+    "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj": {
+    "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj",
+        "projectUniqueName": "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj",
         "projectName": "Projeto-Tecnoexpress",
-        "projectPath": "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj",
+        "projectPath": "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress.csproj",
         "packagesPath": "C:\\Users\\taiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\obj\\",
+        "outputPath": "C:\\Users\\taiso\\Documents\\GitHub\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\Projeto-Tecnoexpress\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taiso\\AppData\\Roaming\\NuGet\\NuGet.Config",

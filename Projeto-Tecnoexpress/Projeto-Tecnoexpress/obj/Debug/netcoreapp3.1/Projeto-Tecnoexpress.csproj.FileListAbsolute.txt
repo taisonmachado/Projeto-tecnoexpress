@@ -1,0 +1,11 @@
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\bin\Debug\netcoreapp3.1\Projeto-Tecnoexpress.exe
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\bin\Debug\netcoreapp3.1\Projeto-Tecnoexpress.deps.json
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\bin\Debug\netcoreapp3.1\Projeto-Tecnoexpress.runtimeconfig.json
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\bin\Debug\netcoreapp3.1\Projeto-Tecnoexpress.runtimeconfig.dev.json
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\bin\Debug\netcoreapp3.1\Projeto-Tecnoexpress.dll
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\bin\Debug\netcoreapp3.1\Projeto-Tecnoexpress.pdb
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\obj\Debug\netcoreapp3.1\Projeto-Tecnoexpress.csprojAssemblyReference.cache
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\obj\Debug\netcoreapp3.1\Projeto-Tecnoexpress.AssemblyInfoInputs.cache
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\obj\Debug\netcoreapp3.1\Projeto-Tecnoexpress.AssemblyInfo.cs
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\obj\Debug\netcoreapp3.1\Projeto-Tecnoexpress.dll
+C:\Users\taiso\Documents\GitHub\Projeto-tecnoexpress\Projeto-Tecnoexpress\Projeto-Tecnoexpress\obj\Debug\netcoreapp3.1\Projeto-Tecnoexpress.pdb
